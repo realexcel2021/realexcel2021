@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   
    
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,bash,css,dynamodb,github,html,js,jenkins,linux,tailwind,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,bash,css,dynamodb,github,html,js,jenkins,linux,tailwind,vscode,react" />
   </a>
 
     
