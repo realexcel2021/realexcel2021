@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   ### :woman_technologist: About Me :
   I am a DevOps and CLoud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
-  - :telescope: I’m working as a DevOps and Cloud Engineer. I also do frontend when I'm bored or freelanceing My favourite frontend framework is ReactJS.
+  - :telescope: I’m a DevOps and Cloud Engineer. I also do frontend when I'm bored or freelanceing My favourite frontend framework is ReactJS.
 
 - :seedling: Exploring the AWS cloud.
 
