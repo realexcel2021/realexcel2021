@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
   
   ### :woman_technologist: About Me :
-  I am a DevOps and CLoud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+  I am a DevOps and Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
   - :telescope: I’m a DevOps and Cloud Engineer. I also do frontend when I'm bored or freelanceing My favourite frontend framework is ReactJS.
 
