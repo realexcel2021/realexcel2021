@@ -44,7 +44,7 @@ I am a DevOps and Cloud Engineer from Nigeria.
 
 - :zap: In my free time, I troll github for projects and terraform them lol and read tech articles on medium.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sheriff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/excel-sheriff-5ba362245/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sheriff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheriff-joe/)
   
  ---
 
