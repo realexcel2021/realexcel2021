@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </h1>
 
 #About Me 
-I am a DevOps and Cloud Engineer from Nigeria.
+I Sheriff Joe, a DevOps and cloud engineer. I'm exploring cloud technologies and the devops culture
   
   - :telescope: I’m a DevOps and Cloud Engineer. I also do frontend when I'm bored or freelanceing My favourite frontend framework is ReactJS.
 
