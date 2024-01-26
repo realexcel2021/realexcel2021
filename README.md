@@ -42,7 +42,7 @@ I Sheriff Joe, a DevOps and cloud engineer. I'm exploring cloud technologies and
 
 - :seedling: Exploring the AWS cloud.
 
-- :zap: In my free time, I troll github for projects and terraform them lol and read tech articles on medium.
+- :zap: In my free time, I troll github for projects and terraform them lol and read tech articles on Hashnode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sheriff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheriff-joe/)
   
